@@ -1,4 +1,4 @@
-¡Holaa! 👋
+--¡Holaa! 👋
 ¡Bienvenido/a a mi perfil de GitHub! Soy Hector Solano, un apasionado de la programación y la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes áreas. Permíteme presentarte un poco sobre mí y mis intereses:
 
 Acerca de mí
